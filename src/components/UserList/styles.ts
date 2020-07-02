@@ -84,6 +84,5 @@ export const Avatar = styled.div`
   &.bot {
     background-color: var(--mention-detail)
   }
-
 `
 
