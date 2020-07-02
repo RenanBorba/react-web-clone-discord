@@ -7,6 +7,7 @@ import Servername from '../ServerName';
 import ChannelInfo from '../ChannelInfo';
 import ChannelList from '../ChannelList';
 import UserInfo from '../UserInfo';
+import UserList from '../UserList';
 
 
 // export default function Layout() { // JS
@@ -23,6 +24,8 @@ const Layout: React.FC = () => {
       <ChannelInfo />
       <ChannelList />
       <UserInfo />
+      <div />
+      <UserList />
     </Grid>
   )
 };

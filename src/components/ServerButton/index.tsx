@@ -4,7 +4,7 @@ import Logo from '../../assets/Logo.svg'
 
 import { Button } from './styles';
 
-// desacoplamento
+// exportar desacoplamento
 export interface Props {
   // : obrigatório, ?: opcional
   selected?: boolean;
