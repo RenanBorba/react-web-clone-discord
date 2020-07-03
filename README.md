@@ -1,3 +1,7 @@
+![discord](https://user-images.githubusercontent.com/48495838/86496475-02cb4580-bd54-11ea-9839-88612af0394d.png)
+
+<br><br>
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
