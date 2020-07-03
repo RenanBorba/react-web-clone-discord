@@ -8,8 +8,7 @@ import {
   UserIcons,
   MicIcon,
   HeadphoneIcon,
-  SettingsIcon
-} from './styles';
+  SettingsIcon } from './styles';
 
 const UserInfo: React.FC = () => {
   return (

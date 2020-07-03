@@ -14,10 +14,10 @@ const UserRow: React.FC<UserProps> = ({ nickname, isBot }) => {
       <Avatar className={ isBot ? 'bot' : '' } />
       <strong>{ nickname }</strong>
 
-      {/* se for bot */}
+      {/* se for bot, renderizar span */}
       { isBot && <span>Bot</span> }
     </User>
-  )
+  );
 };
 
 const UserList: React.FC = () => {
