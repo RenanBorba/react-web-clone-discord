@@ -18,7 +18,7 @@
 
 <br>
 
-Aplicação Web em ReactJS e TypeScript, utilizando o design Grid, para clone estático e fidedigno da principal interface do Discord, que é voltado para chat de comunicação entre gamers e usos diários diversos.
+Aplicação Web em ReactJS e TypeScript, utilizando o design Grid, para clone estático e fidedigno da principal interface do Discord, que é voltado para chat de comunicação entre gamers e usos diários para conversas diversas.
 
 <br><br>
 
@@ -74,6 +74,6 @@ Aplicação Web em ReactJS e TypeScript, utilizando o design Grid, para clone es
 
 ## :mega: Segue abaixo a principal interface:
 
-<br>
+<br><br>
 
 ![discord](https://user-images.githubusercontent.com/48495838/86496475-02cb4580-bd54-11ea-9839-88612af0394d.png)
