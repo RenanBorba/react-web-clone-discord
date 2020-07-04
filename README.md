@@ -1,6 +1,6 @@
 <div align="center"> 
 
-# Projeto - Aplicação Facebook Feed Clone Web ReactJS
+# Projeto - Aplicação Clone Discord Web ReactJS
 
 </div>
 
@@ -74,8 +74,6 @@ Aplicação Web em ReactJS e TypeScript, utilizando o design Grid, para clone es
 
 ## :mega: Segue abaixo a principal interface:
 
-<br><br><br>
-
-## Interface principal
+<br>
 
 ![discord](https://user-images.githubusercontent.com/48495838/86496475-02cb4580-bd54-11ea-9839-88612af0394d.png)
