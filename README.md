@@ -32,11 +32,11 @@ Aplicação Web em ReactJS e TypeScript, utilizando o design Grid, para clone es
 
 ## :rocket: Tecnologias
 <ul>
-  <li>Typescript</li>
+  <li>TypeScript</li>
   <li>Components</li>
   <li>Favicon</li>
-  <li>styled-components</li>
   <li>Google Fonts</li>
+  <li>styled-components</li>
   <li>styled-icons Material, Heroicons-outline</li>
   <li>useRef</li>
   <li>useEffect</li>
