@@ -74,6 +74,14 @@ Aplicação Web em ReactJS e TypeScript, utilizando o design Grid, para clone es
 
 ## :mega: Segue abaixo a principal interface:
 
-<br><br>
+<br><br><br>
+
+<div align="center">
 
 ![discord](https://user-images.githubusercontent.com/48495838/86496475-02cb4580-bd54-11ea-9839-88612af0394d.png)
+
+<br><br>
+
+![Meu-Vdeo-discord](https://user-images.githubusercontent.com/48495838/86606373-4a351a00-bf7e-11ea-8ace-651ee58e48f2.gif)
+
+</div>
