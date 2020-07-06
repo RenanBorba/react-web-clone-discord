@@ -82,6 +82,6 @@ Aplicação Web em ReactJS e TypeScript, utilizando o design Grid, para clone es
 
 <br><br>
 
-![Meu-Vdeo-discord](https://user-images.githubusercontent.com/48495838/86606373-4a351a00-bf7e-11ea-8ace-651ee58e48f2.gif)
+![Meu-Vdeo-discord](https://user-images.githubusercontent.com/48495838/86607648-e7dd1900-bf7f-11ea-8d4c-906530164b5c.gif)
 
 </div>
