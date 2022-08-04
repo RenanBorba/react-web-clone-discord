@@ -72,7 +72,7 @@ Aplicação Web em ReactJS e TypeScript, utilizando o design Grid, para clone es
 <br><br>
 <br>
 
-## :mega: ⬇ Abaixo a principal interface:
+## :mega: ⬇ Abaixo, a principal interface:
 
 <br><br><br>
 
