@@ -12,7 +12,7 @@
 
 <br>
 
-![logo](https://user-images.githubusercontent.com/48495838/86516331-0c0cee80-bdf6-11ea-88ef-29ceab8543ec.png)
+![logo](https://github.com/RenanBorba/react-native-realm/assets/48495838/36b91351-b23c-4f18-9631-e9d86064638c)
 
 </div>
 
